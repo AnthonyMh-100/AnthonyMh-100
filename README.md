@@ -7,7 +7,7 @@
 </div>
 
 ## :man_technologist: Sobre Mí:
-Egresado en Ingeniería de Sistemas con una profunda pasión por la tecnología y un compromiso constante con el aprendizaje continuo. Mi formación académica se ha enriquecido con experiencia práctica en programación y desarrollo web, permitiéndome desarrollar soluciones innovadoras en entornos laborales dinámicos. Cada día representa un nuevo reto repleto de oportunidades para crecer tanto a nivel personal como profesional, impulsando siempre mi desarrollo profesional.
+Bachiller en Ingeniería de Sistemas con una profunda pasión por la tecnología y un compromiso constante con el aprendizaje continuo. Mi formación académica se ha enriquecido con experiencia práctica en programación y desarrollo web, permitiéndome desarrollar soluciones innovadoras en entornos laborales dinámicos. Cada día representa un nuevo reto repleto de oportunidades para crecer tanto a nivel personal como profesional, impulsando siempre mi desarrollo profesional.
 
 - 💻 Actualmente me desempeño como Programador Backend.
 - 📋 Actualmente estoy aprendiendo más sobre Docker y servicios en la nube AWS.
