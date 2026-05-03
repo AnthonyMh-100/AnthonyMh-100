@@ -9,7 +9,7 @@
 ## :man_technologist: Sobre Mí:
 Bachiller en Ingeniería de Sistemas con una profunda pasión por la tecnología y un compromiso constante con el aprendizaje continuo. Mi formación académica se ha enriquecido con experiencia práctica en programación y desarrollo web, permitiéndome desarrollar soluciones innovadoras en entornos laborales dinámicos. Cada día representa un nuevo reto repleto de oportunidades para crecer tanto a nivel personal como profesional, impulsando siempre mi desarrollo profesional.
 
-- 💻 Actualmente me desempeño como Programador Backend.
+- 💻 Actualmente me desempeño como Software Developer.
 - 📋 Actualmente estoy aprendiendo más sobre Docker y servicios en la nube AWS.
 - 📫 Correo : [almh100w@gmail.com](almh100w@gmail.com), linkedin: (https://www.linkedin.com/in/anthony-mosquera-6a2a00252/).
 
